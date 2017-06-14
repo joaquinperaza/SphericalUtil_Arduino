@@ -3,3 +3,5 @@ Small aproach to Google Maps Spherical Utils library but translated to arduino, 
 Current version methods:  
 * Distance between two coordiantes on earth.
 * Compute positions with specific offsets from another one.
+  
+*Any contribution is welcomed.*
